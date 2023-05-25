@@ -1,0 +1,4 @@
+numpy
+PyWavelets
+pytest>=7.3
+torch>=2.0
